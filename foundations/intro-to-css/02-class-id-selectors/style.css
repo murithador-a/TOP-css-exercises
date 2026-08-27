@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.no1{
+  background-color: pink;
+}
+#no2{
+  color: blue;
+  fontsize: 20px;
+}
+.no3{
+  font-weight: bold;
+  background-color:pink;
+}
+#no4{
+  background-color:green;
+  font-weight: bolder;
+}
+.no5{
+  background-color: pink;
+}
