@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.positive{
+  background-color:black;
+  color: white;
+}
+.negative{
+  background-color: yellow;
+  color: black;
+}
+.button{
+  font-size: 20px;
+  border-color: 2px solid grey;
+}
